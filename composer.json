@@ -38,8 +38,8 @@
     },
     "autoload": {
         "psr-0": {
-            "SunCat\\MobileDetectBundle": ""
+            "zylor69\\MobileDetectBundle": ""
         }
     },
-    "target-dir": "SunCat/MobileDetectBundle"
+    "target-dir": "zylor69/MobileDetectBundle"
 }
