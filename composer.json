@@ -19,6 +19,12 @@
             "homepage": "https://github.com/netmikey"
         }
     ],
+    "repositories": [
+        {
+      "type": "vcs",
+      "url": "https://github.com/zylor69/Mobile-Detect"
+        }
+    ]    
     "require": {
         "php": ">=5.5.0",
         "symfony/framework-bundle": "~2.4|~3.0",
