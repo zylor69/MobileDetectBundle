@@ -1,5 +1,5 @@
 {
-    "name": "suncat/mobile-detect-bundle",
+    "name": "zylor69/mobile-detect-bundle",
     "description": "Symfony2/3 bundle for detect mobile devices, managing mobile view types, redirect to mobile version.",
     "keywords": ["mobile", "mobile detect", "symfony mobile", "mobile view managing", "mobile redirect"],
     "homepage": "https://github.com/suncat2000/MobileDetectBundle",
@@ -28,7 +28,7 @@
     "require": {
         "php": ">=5.5.0",
         "symfony/framework-bundle": "~2.4|~3.0",
-        "mobiledetect/mobiledetectlib": "~2.8",
+        "zylor69/mobiledetectlib": "~2.8",
         "twig/twig": "~1.23"
     },
     "require-dev": {
